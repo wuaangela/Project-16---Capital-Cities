@@ -12,6 +12,7 @@
 		2E00B0BC22E2335A001D96DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E00B0BA22E2335A001D96DF /* Main.storyboard */; };
 		2E00B0BE22E2335F001D96DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E00B0BD22E2335F001D96DF /* Assets.xcassets */; };
 		2E00B0C122E2335F001D96DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E00B0BF22E2335F001D96DF /* LaunchScreen.storyboard */; };
+		2E00B0C922E236B2001D96DF /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E00B0C822E236B2001D96DF /* Capital.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2E00B0BD22E2335F001D96DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E00B0C022E2335F001D96DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2E00B0C222E2335F001D96DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E00B0C822E236B2001D96DF /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				2E00B0B622E2335A001D96DF /* AppDelegate.swift */,
 				2E00B0B822E2335A001D96DF /* ViewController.swift */,
 				2E00B0BA22E2335A001D96DF /* Main.storyboard */,
+				2E00B0C822E236B2001D96DF /* Capital.swift */,
 				2E00B0BD22E2335F001D96DF /* Assets.xcassets */,
 				2E00B0BF22E2335F001D96DF /* LaunchScreen.storyboard */,
 				2E00B0C222E2335F001D96DF /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				2E00B0B922E2335A001D96DF /* ViewController.swift in Sources */,
 				2E00B0B722E2335A001D96DF /* AppDelegate.swift in Sources */,
+				2E00B0C922E236B2001D96DF /* Capital.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
